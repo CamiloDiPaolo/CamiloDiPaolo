@@ -9,9 +9,16 @@
     - TailwindCSS
 - 🌱 Tambien estoy cursando el 3er año de la Licenciatura en Informafica en la UNLP.   
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiPaolo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div display="flex" style="display:flex; align-items: center">
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CamiloDiPaolo&width=820"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiPaolo"
+  height="340"
 />
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CamiloDiPaolo"
+  width="640"
+  height="340"
+/>
+</div>
+
 
